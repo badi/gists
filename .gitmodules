@@ -1,3 +1,6 @@
 [submodule "cloudmesh-get-issue10.git"]
 	path = cloudmesh-get-issue10.git
 	url = git@gist.github.com:/490dff94141be9a8a090.git
+[submodule "update-openrc.git"]
+	path = update-openrc.git
+	url = git@gist.github.com:/19404fa28082ef5004de.git
